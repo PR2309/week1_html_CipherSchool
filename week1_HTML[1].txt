@@ -11,12 +11,12 @@ Class-3_Different Type of Texts in HTML_cipherschools
     </head>
     <body>
         <p><strong>Hello Everyone!</strong></p>
-        <h1><em>Iam Kamalreddy</em></h1>
-        <h2>Iam Kamalreddy</h2>
-        <h3>Iam Kamalreddy</h3>
-        <h4>Iam Kamalreddy</h4>
-        <h5>Iam Kamalreddy</h5>
-        <h6>Iam Kamalreddy</h6>
+        <h1><em>I am Piyush Anand</em></h1>
+        <h2>I am Piyush Anand</h2>
+        <h3>I am Piyush Anand</h3>
+        <h4>I am Piyush Anand</h4>
+        <h5>I am Piyush Anand</h5>
+        <h6>I am Piyush Anand</h6>
 
         <!--subscripts-->
         <p>H<sub>2</sub>O</p>
